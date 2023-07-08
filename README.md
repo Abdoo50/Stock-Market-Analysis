@@ -13,5 +13,7 @@ We'll be answering the following questions along the way:
 - How much value do we put at risk by investing in a particular stock?
 - How can we attempt to predict future stock behavior? (Predicting the closing price stock price of APPLE inc using LSTM)
 
+### Deployment
+
 We Have Made Interactive Web app to Display Charts for Stock Analysis
 - First Web App: Shown are the stock closing price and volume of Google
