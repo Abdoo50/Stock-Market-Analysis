@@ -6,3 +6,4 @@ plotly
 pandas
 joblib
 scikit-learn
+yfinance
